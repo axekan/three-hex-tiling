@@ -23,13 +23,13 @@
   "devDependencies": {
     "@types/three": "^0.158.2",
     "lil-gui": "^0.19.1",
-    "three": "^0.158.0",
+    "three": "^0.169.0",
     "typescript": "^5.2.2",
     "vite": "^4.5.0",
     "vite-plugin-dts": "^3.6.3",
     "vite-plugin-glsl": "^1.1.2"
   },
   "peerDependencies": {
-    "three": ">=0.151 <0.159"
+    "three": ">=0.169"
   }
 }
