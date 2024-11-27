@@ -21,7 +21,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/three": "^0.158.2",
+    "@types/three": "^0.169.0",
     "lil-gui": "^0.19.1",
     "three": "^0.169.0",
     "typescript": "^5.2.2",
