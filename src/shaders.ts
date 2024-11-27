@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import tileBreakingNeyretFragment from "./shaders/tileBreakingNeyret.frag";
+import tileBreakingNeyretFragment from "./shaders/tileBreakingNeyret.frag?raw";
 
 export const THREE_HEX_TILING_DEFINE = "USE_THREE_HEX_TILING";
 
